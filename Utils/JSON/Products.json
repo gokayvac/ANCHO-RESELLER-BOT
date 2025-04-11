@@ -1,0 +1,17 @@
+{
+    "products": [
+        {
+            "id": "internal",
+            "name": "VALORANT INTERNAL",
+            "description": "30 G\u00c3\u0153NL\u00c3\u0153K L\u00c4\u00b0SANS",
+            "price": 500.0,
+            "stock": 1,
+            "duration_days": 30,
+            "features": [
+                "hile"
+            ],
+            "thumbnail_url": "",
+            "image_url": ""
+        }
+    ]
+}

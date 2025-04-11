@@ -1,0 +1,95 @@
+{
+    "resellers": [
+        {
+            "discord_name": "gokaysevinc",
+            "discord_id": "744831268381917214",
+            "reseller_access": true,
+            "panel_expiry": "2025-04-24",
+            "balance": 2673.01,
+            "sales": [
+                {
+                    "product_id": "internal",
+                    "license_key": "LIC-744831268381917214-20250405115845-0",
+                    "purchase_date": "2025-04-05 11:58:45",
+                    "expiry_date": "2025-05-05 11:58:45",
+                    "customer_id": "744831268381917214",
+                    "customer_name": "gokaysevinc",
+                    "status": "active",
+                    "hwid": ""
+                },
+                {
+                    "product_id": "internal",
+                    "license_key": "LIC-744831268381917214-20250410213717-0",
+                    "purchase_date": "2025-04-10 21:37:17",
+                    "expiry_date": "2025-05-10 21:37:17",
+                    "customer_id": "1324464637009203305",
+                    "customer_name": "ancho.today",
+                    "status": "active",
+                    "hwid": ""
+                },
+                {
+                    "product_id": "internal",
+                    "license_key": "LIC-744831268381917214-20250410214102-0",
+                    "purchase_date": "2025-04-10 21:41:02",
+                    "expiry_date": "2025-05-10 21:41:02",
+                    "customer_id": "1324464637009203305",
+                    "customer_name": "ancho.today",
+                    "status": "active",
+                    "hwid": ""
+                }
+            ],
+            "balance_history": [
+                {
+                    "date": "2025-04-05 11:58:45",
+                    "amount": -500.0,
+                    "type": "purchase",
+                    "description": "1x VALORANT INTERNAL sat\u0131n al\u0131nd\u0131"
+                },
+                {
+                    "date": "2025-04-05 13:23:44",
+                    "amount": 55.0,
+                    "type": "deposit",
+                    "description": "Bakiye y\u00fckleme (Onaylayan: gokaysevinc)"
+                },
+                {
+                    "date": "2025-04-10 21:36:56",
+                    "amount": 500.0,
+                    "type": "deposit",
+                    "description": "Bakiye y\u00fckleme (Onaylayan: gokaysevinc)"
+                },
+                {
+                    "date": "2025-04-10 21:37:17",
+                    "amount": -500.0,
+                    "type": "purchase",
+                    "description": "1x VALORANT INTERNAL sat\u0131n al\u0131nd\u0131"
+                },
+                {
+                    "date": "2025-04-10 21:40:51",
+                    "amount": 563.0,
+                    "type": "deposit",
+                    "description": "Bakiye y\u00fckleme (Onaylayan: gokaysevinc)"
+                },
+                {
+                    "date": "2025-04-10 21:41:02",
+                    "amount": -500.0,
+                    "type": "purchase",
+                    "description": "1x VALORANT INTERNAL sat\u0131n al\u0131nd\u0131"
+                },
+                {
+                    "date": "2025-04-11 19:16:27",
+                    "amount": 555.0,
+                    "type": "deposit",
+                    "description": "Bakiye y\u00fckleme (Onaylayan: gokaysevinc)"
+                }
+            ]
+        },
+        {
+            "discord_name": "ancho.today",
+            "discord_id": "1324464637009203305",
+            "reseller_access": true,
+            "panel_expiry": "2025-04-17",
+            "balance": 54.0,
+            "sales": []
+        }
+    ]
+}

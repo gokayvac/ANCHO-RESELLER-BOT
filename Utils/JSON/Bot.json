@@ -1,0 +1,25 @@
+{
+    "configuration": {
+        "bot": {
+            "token": "",
+            "settings": {
+                "prefix": "!",
+                "status": "ancho.today",
+                "activity_type": "WATCHING"
+            }
+        },
+        "server": {
+            "id": "", 
+            "name": "",
+            "roles": {
+                "staff": {
+                    "admin": "",
+                    "reseller": ""
+                }
+            }
+        }
+    },
+        "channels": {
+            "bakiye_yukleme_log": ""
+        }
+    }
